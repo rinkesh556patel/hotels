@@ -29,22 +29,9 @@
 		0B14AD342D589A3D002B4BCC /* hotelsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hotelsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		0B14AD882D58C9E8002B4BCC /* Exceptions for "hotels" folder in "hotels" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 0B14AD192D589A3C002B4BCC /* hotels */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		0B14AD1C2D589A3C002B4BCC /* hotels */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				0B14AD882D58C9E8002B4BCC /* Exceptions for "hotels" folder in "hotels" target */,
-			);
 			path = hotels;
 			sourceTree = "<group>";
 		};
