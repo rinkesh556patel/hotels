@@ -1,4 +1,0 @@
-module HeapModule {
-    header "/Users/rinkeshpatel/Desktop/Cursor/hotels/Backend/.build/arm64-apple-macosx/debug/HeapModule.build/HeapModule-Swift.h"
-    requires objc
-}

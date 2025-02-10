@@ -1,4 +1,0 @@
-module PostgresKit {
-    header "/Users/rinkeshpatel/Desktop/Cursor/hotels/Backend/.build/arm64-apple-macosx/debug/PostgresKit.build/PostgresKit-Swift.h"
-    requires objc
-}

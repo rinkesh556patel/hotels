@@ -1,4 +1,0 @@
-module SQLKit {
-    header "/Users/rinkeshpatel/Desktop/Cursor/hotels/Backend/.build/arm64-apple-macosx/debug/SQLKit.build/SQLKit-Swift.h"
-    requires objc
-}

@@ -1,4 +1,0 @@
-module _NIOFileSystemFoundationCompat {
-    header "/Users/rinkeshpatel/Desktop/Cursor/hotels/Backend/.build/arm64-apple-macosx/debug/_NIOFileSystemFoundationCompat.build/_NIOFileSystemFoundationCompat-Swift.h"
-    requires objc
-}

@@ -1,4 +1,0 @@
-module CoreMetrics {
-    header "/Users/rinkeshpatel/Desktop/Cursor/hotels/Backend/.build/arm64-apple-macosx/debug/CoreMetrics.build/CoreMetrics-Swift.h"
-    requires objc
-}

@@ -1,4 +1,0 @@
-module Vapor {
-    header "/Users/rinkeshpatel/Desktop/Cursor/hotels/Backend/.build/arm64-apple-macosx/debug/Vapor.build/Vapor-Swift.h"
-    requires objc
-}
