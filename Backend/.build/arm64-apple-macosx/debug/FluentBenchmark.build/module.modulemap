@@ -1,0 +1,4 @@
+module FluentBenchmark {
+    header "/Users/rinkeshpatel/Desktop/Cursor/hotels/Backend/.build/arm64-apple-macosx/debug/FluentBenchmark.build/FluentBenchmark-Swift.h"
+    requires objc
+}

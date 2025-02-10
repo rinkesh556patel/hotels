@@ -1,0 +1,4 @@
+module Instrumentation {
+    header "/Users/rinkeshpatel/Desktop/Cursor/hotels/Backend/.build/arm64-apple-macosx/debug/Instrumentation.build/Instrumentation-Swift.h"
+    requires objc
+}

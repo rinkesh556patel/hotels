@@ -1,0 +1,4 @@
+module _ConnectionPoolModule {
+    header "/Users/rinkeshpatel/Desktop/Cursor/hotels/Backend/.build/arm64-apple-macosx/debug/_ConnectionPoolModule.build/_ConnectionPoolModule-Swift.h"
+    requires objc
+}

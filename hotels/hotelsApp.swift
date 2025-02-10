@@ -1,17 +1,13 @@
-//
-//  hotelsApp.swift
-//  hotels
-//
-//  Created by rinkesh patel on 09/02/25.
-//
-
 import SwiftUI
 
 @main
-struct hotelsApp: App {
+struct HotelsApp: App {
+    @StateObject private var authManager = AuthManager.shared
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(authManager)
         }
     }
-}
+} 

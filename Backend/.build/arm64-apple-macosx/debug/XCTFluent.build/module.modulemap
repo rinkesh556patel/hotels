@@ -1,0 +1,4 @@
+module XCTFluent {
+    header "/Users/rinkeshpatel/Desktop/Cursor/hotels/Backend/.build/arm64-apple-macosx/debug/XCTFluent.build/XCTFluent-Swift.h"
+    requires objc
+}
